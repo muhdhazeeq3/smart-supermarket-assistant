@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223900797582",
+    "project_id": "ppp-fyp-a167536",
+    "storage_bucket": "ppp-fyp-a167536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223900797582:android:a68765b0922626044c17df",
+        "android_client_info": {
+          "package_name": "com.example.ppp_a167536_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223900797582-ak9q4iiq1udrncru7h3k0qsgjkf3cg32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Nb5Uea0yQDtqWXzXqveAtDi1HoHh_78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223900797582-ak9q4iiq1udrncru7h3k0qsgjkf3cg32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
