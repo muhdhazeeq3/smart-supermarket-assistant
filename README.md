@@ -1,2 +1,2 @@
-# smart_supermarket_assistant
+# smart-supermarket-assistant
 Final Year Project
