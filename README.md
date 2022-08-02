@@ -9,3 +9,8 @@ This is my Final Year Project during my study. The purpose of this program is to
 1. To calculate price by scanning the barcode of the item that we want.
 2. To show the location of the item that we searched.
 3. To show the 3D model of the item by scanning the barcode especially for in-box furniture.
+
+## Software Used
+
+1. Android Studio
+2. Firebase
