@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my Final Year Project during my study. The purpose of this program is to help user at the supermarket to have an easy time during their shopping. This application is built with Android Studio focusing on android application.
+This is my Final Year Project during my study. This project is a solo project suggested and created by me. The purpose of this program is to help user at the supermarket to have an easy time during their shopping. This application is built with Android Studio focusing on android application.
 
 ## Main Function and Objectives
 
